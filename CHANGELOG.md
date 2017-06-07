@@ -5,6 +5,14 @@ information on the list of deprecated flags and APIs please have a look at
 https://docs.docker.com/engine/deprecated/ where target removal dates can also
 be found.
 
+
+## 17.05.1-rambler (2017-06-07)
+
+### Runtime
+
++ Change runc runtime
+
+
 ## 17.05.0-rambler (2017-05-10)
 
 ### Runtime
